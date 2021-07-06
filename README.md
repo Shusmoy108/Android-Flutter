@@ -4,6 +4,6 @@
 
 -We have implemented a function on \android\app\src\main\java\com\example\flutterandroidconnection\MainActivity.java and call it in the main.dart file
 
--Also we have faced parameter from flutter side to the MainActivity.java file
+-Also we have sent parameter from flutter side to the MainActivity.java file
 
 -If the code helps you give a star
